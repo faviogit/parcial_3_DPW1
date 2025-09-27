@@ -15,13 +15,19 @@ const decrement = () => {
 <template>
   <div>
     <p>Contador: {{ count }}</p>
-    <button @click="increment">Incrementar (+2)</button>
-    <button @click="decrement">Reducir (-2)</button>
+    <button @click="increment">Incrementar</button>
+    <button @click="decrement">Decrementar</button>
   </div>
 </template>
 
 <style scoped>
 button {
-  margin: 0.5rem;
+  margin: 1.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
 }
 </style>

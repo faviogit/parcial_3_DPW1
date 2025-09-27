@@ -12,5 +12,7 @@ import HelloWorld from '../components/HelloWorld.vue'
 <style scoped>
 h1 {
   color: #333;
+  text-align: center;
+  margin-top: 1rem;
 }
 </style>

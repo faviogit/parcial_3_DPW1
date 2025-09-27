@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-// No necesitas JS aquí por ahora
+
 </script>
 
 <style scoped>
@@ -22,10 +22,10 @@ ul {
   gap: 1rem;
 }
 li {
-  color: white;
+  color: rgb(91, 67, 9);
 }
 a {
-  color: white;
+  color: rgb(166, 177, 190);
   text-decoration: none;
 }
 a.router-link-exact-active {

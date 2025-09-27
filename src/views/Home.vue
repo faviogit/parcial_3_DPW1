@@ -1,12 +1,13 @@
 <template>
   <div>
-    <h1>Parcial de Desarrollo Web</h1>
-    <p>Estudiante: Tu Nombre</p>
-    <p>Asignatura: Nombre de la Asignatura</p>
+    <h1>Tercer Parcial Dpw1</h1>
+    <p>Estudiante: Favio Candia Alvarez</p>
+    <p>Asignatura: Diseño Y Programación Web I</p>
   </div>
 </template>
 
 <script setup>
+
 </script>
 
 <style scoped>
