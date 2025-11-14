@@ -6,7 +6,7 @@
 
 ---
 
-## ✅ Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto fue realizado como parte del examen parcial de la asignatura **Desarrollo Web I**.  
 Se utilizó **VueJS** con el empaquetador **Vite** para crear  las siguientes características:
@@ -17,8 +17,8 @@ Se utilizó **VueJS** con el empaquetador **Vite** para crear  las siguientes ca
 - Un componente contador que incrementa y decrementa de 2 en 2
 - Estilos aplicados por componente
 
-### 📍 Pantalla de inicio (Home)
+###  Pantalla de inicio (Home)
 ![Captura Home](./capturas/home.png)
 
-### 📍 Página del contador
+###  Página del contador
 ![Captura Contador](./capturas/contador.png)
